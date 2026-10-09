@@ -30,6 +30,6 @@ Python 3
 [THEORY]MA2007 - Introduction to Numerical Analysis
 [LAB]MA2071 - Numerical Methods Laboratory
 ## Author
-Naba Meher
-Integrated MSc Mathematics
-NIT Rourkela
+- Naba Meher[425MA5016]
+-Integrated MSc Mathematics
+-NIT Rourkela

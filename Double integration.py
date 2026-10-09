@@ -1,4 +1,6 @@
 #Douuble integration
+
+#Run pip install sympy (before using code)
 from sympy import symbols, sympify, lambdify
 # --------------------------------------------------
 # Numerical Integration Rules
